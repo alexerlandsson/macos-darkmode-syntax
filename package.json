@@ -1,0 +1,15 @@
+{
+  "name": "macos-darkmode-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "macOS dark mode syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alexerlandsson/macos-darkmode-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
