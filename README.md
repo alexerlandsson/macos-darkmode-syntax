@@ -1,3 +1,3 @@
 # macos-darkmode-syntax
 
-Atom syntax theme to resemble the macOS dark mode design.
+This is an Atom syntax theme using the same syntax colors as Chrome DevTools in dark mode with the background color of macOS dark mode.
